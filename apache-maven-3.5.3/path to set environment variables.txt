@@ -1,0 +1,5 @@
+user path:  C:\Program Files\Java\jdk1.8.0_171\bin;C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_171\lib\tools.jar;C:\Program Files\Java\jre1.8.0_171\bin;C:\Program Files\Java\jre1.8.0_171\lib;C:\Program Files\Docker Toolbox; C:/opscode/chefdk/bin; C:/opscode/chefdk/embedded/bin;C:\Users\Ramesh Kalyani\AppData\Roaming\npm
+
+
+
+system path:  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\PuTTY\;C:\Ant\apache-ant-1.10.3\bin;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Maven\apache-maven-3.5.3-bin\apache-maven-3.5.3\bin;C:\Wildfly\wildfly-13.0.0.Final\bin;C:\sonar-scanner-3.2.0.1227-windows\bin;C:\Program Files\Cloud Foundry;C:\Program Files\Amazon\AWSCLI\;C:\terraform;C:\opscode\chefdk\bin\; C:/opscode/chefdk/bin; C:/opscode/chefdk/embedded/bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd
